@@ -22,11 +22,11 @@ No databases. No noise. Just your money, your way—with the power to sync it wh
 
 ## 📦 Stack (Planned)
 
-- **Frontend**: [Next.js](https://nextjs.org/), [TailwindCSS](https://tailwindcss.com/)
+- **Frontend**: [Vite](https://vite.dev/), [React](https://react.dev), [ShadCN](https://ui.shadcn.com/) [TailwindCSS](https://tailwindcss.com/)
 - **State / Storage**: Legend State + IndexedDB (via `dexie.js` or `idb`)
-- **Sync Server**: Lightweight Node.js (Express or tRPC)
+- **Sync Server**: Supabase (handled by Legend State)
 - **Auth (Optional)**: JWT or anonymous device-based sync tokens
-- **Deployment**: Vercel (frontend) + Fly.io or Railway (sync server)
+- **Deployment**: Vercel (frontend) + Supabase (sync server)
 
 ---
 
