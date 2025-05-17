@@ -1,7 +1,7 @@
 # Baylag
 
 > *Baylag* — Mongolian for **wealth**.  
-> A minimal, offline-first personal finance app built for students, freelancers, and anyone who wants full control over their money.
+> A minimal, offline-first personal finance app built for anyone who wants full control over their money.
 
 Baylag is your local-first, privacy-respecting finance companion.  
 No databases. No noise. Just your money, your way—with the power to sync it wherever you go.
